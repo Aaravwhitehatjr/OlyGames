@@ -20,19 +20,19 @@ ctx.arc(300 , 210 ,40 ,0 ,2 * Math.PI);
 ctx.stroke();
 ctx.beginPath();
 ctx.strokeStyle="black";
-ctx.arc( 320,210 ,40 ,0 ,2 * Math.PI);
-ctx.stroke();
-ctx.beginPath();
-ctx.strokeStyle="red";
 ctx.arc( 350,210 ,40 ,0 ,2 * Math.PI);
 ctx.stroke();
 ctx.beginPath();
+ctx.strokeStyle="red";
+ctx.arc( 400,210 ,40 ,0 ,2 * Math.PI);
+ctx.stroke();
+ctx.beginPath();
 ctx.strokeStyle="yellow";
-ctx.arc( 380, , 40 ,0 ,2 * Math.PI);
+ctx.arc( 320, 260, 40 ,0 ,2 * Math.PI);
 ctx.stroke();
 ctx.beginPath();
 ctx.strokeStyle="green";
-ctx.arc( 400, 200,40 ,0 ,2 * Math.PI);
+ctx.arc( 380, 260 ,40 ,0 ,2 * Math.PI);
 ctx.stroke();
 
 function circle(mouse_x , mouse_y)
