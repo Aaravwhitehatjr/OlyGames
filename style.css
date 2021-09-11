@@ -1,0 +1,21 @@
+.body_background {
+    background-image: url("https://media.cntraveler.com/photos/6048e81fe77f3d8c4d2e41de/3:2/w_2499,h_1666,c_limit/Tokyo-2021-GettyImages-1188789522-2.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color:white; 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+  span
+  {
+      font-size: 20px;
+  }
